@@ -4,8 +4,7 @@
 </p>
 
 ## **Overview**
-This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so for my learning experience and what I found helpful from various online resources. If the organization of content helps someone else in their deep learning journey than even better.
-
+This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so for my learning experience and what I found helpful from various online resources. The order of courses also help me build my foundational knowledge to more advanced to niche applications. If the organization of content helps someone else in their Deep Learning journey than even better.
 
 # **Table Of Contents**
 
@@ -42,4 +41,18 @@ This repo contains libraries, techniques, projects and courses using various neu
 
 2. [Deep Learning with Python: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
-3. [Natural Language Processing with Deep Learning: Udemy](https://github.com/manchester9/deep-learning/tree/master/courses/natural-language-processing-with-deep-learning)
+3. [Data Science: Deep Learning in Python: Udemy]()
+
+4. [Modern Deep Learning in Python: Udemy]()
+
+5. [Deep Learning-Convolutional Neural Networks in Python: Udemy]()
+
+6. [Deep Learning: Recurrent Neural Networks in Python: Udemy]()
+
+7. [Natural Language Processing with Deep Learning in Python: Udemy](https://github.com/manchester9/deep-learning/tree/master/courses/natural-language-processing-with-deep-learning)
+
+8. [Cutting Edge AI-Deep Reinforcement Learning in Python: Udemy]()
+
+9. [Deep Learning: GANs and Variational Autoencoders]()
+
+10. [Recommender Systems and Deep Learning in Python]()
