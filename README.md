@@ -4,7 +4,7 @@
 </p>
 
 ## **Overview**
-This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so for my learning experience from various online resources and if the organization of content helps someone than even better.
+This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so for my learning experience and what I found helpful from various online resources. If the organization of content helps someone else in their deep learning journey than even better.
 
 
 # **Table Of Contents**
