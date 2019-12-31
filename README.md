@@ -33,9 +33,11 @@ This repo contains libraries, techniques, projects and courses using various neu
 ### **Courses**
 1. [Deep Learning Specialization: Coursera]()
     * Neural Networks and Deep Learning 
-    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and      Optimization
+    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
     * Structuring Machine Learning Projects
     * Convolutional Neural Networks
     * Sequence Models
 
 2. [Deep Learning with Python: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+
+3. [Natural Language Processing with Deep Learning: Udemy](https://github.com/manchester9/deep-learning/tree/master/courses/natural-language-processing-with-deep-learning)
