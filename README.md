@@ -20,13 +20,14 @@ This repo contains libraries, techniques, projects and courses using various neu
 1. [Perceptron]()
 2. [Multi Layer Perceptron]()
 2. [Full Connected Neural Network]()
-3. [Convolution Neural Networks]()
-4. [Reccurent Neural Networks]()
+3. [Convolution Neural Networks](https://github.com/manchester9/deep-learning/tree/master/techniques/convolutional-neural-network)
+4. [Reccurent Neural Networks](https://github.com/manchester9/deep-learning/tree/master/techniques/recurrent-neural-network)
 5. [Generative Adversarial Networks]()
 6. [Deep Reinforcement Learning]()
 
 ### **Projects**
-1. [Mamogram-mass-predictor]()
+1. [Mamogram-mass-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/mamogram-mass-predictor)
+2. [Political-party-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/political-party-predictor)
 
 ### **Courses**
 1. [Deep Learning Specialization: Coursera]()
