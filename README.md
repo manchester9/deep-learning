@@ -16,6 +16,8 @@ This repo contains libraries, techniques, projects and courses using various neu
 4. [Theano]()
 5. [Mxnet]()
 6. [PyTorch]()
+7. [CNTK]()
+8. [DeepLearning4J]()
 
 ### **Techniques**
 1. [Perceptron]()
