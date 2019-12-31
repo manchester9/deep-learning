@@ -1,4 +1,4 @@
-<p align="center"><img width=100% src="images/neural-nets.png"></p>
+<p align="center"><img width=80% src="images/neural-nets.png"></p>
 
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:20pt">DEEP LEARNING
 </p>
