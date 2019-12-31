@@ -10,8 +10,8 @@ This repo contains libraries, techniques, projects and courses using various neu
 # **Table Of Contents**
 
 ### **Libraries**
-1. [Tensorflow]()
-2. [Keras]()
+1. [Tensorflow](https://github.com/manchester9/deep-learning/tree/master/libraries/Tensorflow)
+2. [Keras](https://github.com/manchester9/deep-learning/tree/master/libraries/Keras)
 3. [Caffe]()
 4. [Theano]()
 5. [Mxnet]()
