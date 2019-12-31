@@ -4,10 +4,17 @@
 </p>
 
 ## **Overview**
-This repo contains techniques, projects and courses using various neural net and deep learning architectures. More so for my learning experience and if the organization of content helps someone than even better.
+This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so for my learning experience and if the organization of content helps someone than even better.
 
 
 # **Table Of Contents**
+
+### **Libraries**
+1. [Tensorflow]()
+2. [Keras]()
+3. [Caffe]()
+4. [Theano]()
+5. [Mxnet]()
 
 ### **Techniques**
 1. [Perceptron]()
@@ -18,10 +25,8 @@ This repo contains techniques, projects and courses using various neural net and
 5. [Generative Adversarial Networks]()
 6. [Deep Reinforcement Learning]()
 
-
 ### **Projects**
 1. [TBD]()
-
 
 ### **Courses**
 1. [Deep Learning Specialization: Coursera]()
