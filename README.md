@@ -37,3 +37,5 @@ This repo contains libraries, techniques, projects and courses using various neu
     * Structuring Machine Learning Projects
     * Convolutional Neural Networks
     * Sequence Models
+
+2. [Deep Learning with Python: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
