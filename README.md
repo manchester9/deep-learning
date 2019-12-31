@@ -31,12 +31,12 @@ This repo contains libraries, techniques, projects and courses using various neu
 2. [Political-party-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/political-party-predictor)
 
 ### **Courses**
-1. [Deep Learning Specialization: Coursera]()
-    * Neural Networks and Deep Learning 
-    * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-    * Structuring Machine Learning Projects
-    * Convolutional Neural Networks
-    * Sequence Models
+1. [Deep Learning Specialization: Coursera](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization)
+    * [Course 1: Neural Networks and Deep Learning](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/neural-networks-and-deep-learning) 
+    * [Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/improving-deep-neural-networks)
+    * [Course 3: Structuring Machine Learning Projects](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/structuring-machine-learning-projects)
+    * [Course 4: Convolutional Neural Networks](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/convolutional-neural-networks)
+    * [Course 5: Sequence Models](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/sequence-models)
 
 2. [Deep Learning with Python: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
