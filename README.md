@@ -15,6 +15,7 @@ This repo contains libraries, techniques, projects and courses using various neu
 3. [Caffe]()
 4. [Theano]()
 5. [Mxnet]()
+6. [PyTorch]()
 
 ### **Techniques**
 1. [Perceptron]()
