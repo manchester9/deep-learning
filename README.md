@@ -26,7 +26,7 @@ This repo contains libraries, techniques, projects and courses using various neu
 4. [Reccurent Neural Networks](https://github.com/manchester9/deep-learning/tree/master/techniques/recurrent-neural-network)
 5. [Generative Adversarial Networks]()
 6. [Deep Reinforcement Learning]()
-7. [Transfer Learning]()
+7. [Transfer Learning](https://github.com/manchester9/deep-learning/tree/master/techniques/transfer-learning)
 
 ### **Projects**
 1. [Mamogram-mass-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/mamogram-mass-predictor)
