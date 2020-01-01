@@ -4,7 +4,7 @@
 </p>
 
 ## **Overview**
-This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so to document my learning experience and what I found helpful from various online resources. The order of courses also helped me build my foundational knowledge to more advanced to more niche applications. If the organization of content helps someone else in their Deep Learning journey than even better.
+This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so to document my learning experience and what I found conceptually helpful from various online resources. The order of courses also helped me build my foundational knowledge to more advanced to more niche applications. If the organization of content helps someone else in their Deep Learning journey than even better.
 
 # **Table Of Contents**
 
@@ -26,6 +26,7 @@ This repo contains libraries, techniques, projects and courses using various neu
 4. [Reccurent Neural Networks](https://github.com/manchester9/deep-learning/tree/master/techniques/recurrent-neural-network)
 5. [Generative Adversarial Networks]()
 6. [Deep Reinforcement Learning]()
+7. [Transfer Learning]()
 
 ### **Projects**
 1. [Mamogram-mass-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/mamogram-mass-predictor)
