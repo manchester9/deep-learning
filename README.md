@@ -27,6 +27,9 @@ This repo contains libraries, techniques, projects and courses using various neu
 5. [Generative Adversarial Networks]()
 6. [Deep Reinforcement Learning]()
 7. [Transfer Learning](https://github.com/manchester9/deep-learning/tree/master/techniques/transfer-learning)
+8. [Deep Boltzmann Machine]()
+9. [Deep Belief Networks]()
+10. [Stacked Autoencoders]()
 
 ### **Projects**
 1. [Mamogram-mass-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/mamogram-mass-predictor)
@@ -56,6 +59,9 @@ This repo contains libraries, techniques, projects and courses using various neu
 
 9. [Cutting Edge AI-Deep Reinforcement Learning in Python: Udemy]()
 
-10. [Deep Learning: GANs and Variational Autoencoders]()
+10. [Deep Learning: GANs and Variational Autoencoders: Udemy]()
 
-11. [Recommender Systems and Deep Learning in Python]()
+11. [Recommender Systems and Deep Learning in Python: Udemy]()
+
+12. [Introduction to Deep Learning with PyTorch: Udacity]()
+    
