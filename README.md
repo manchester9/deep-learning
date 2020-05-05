@@ -6,7 +6,7 @@
 ![Python](https://camo.githubusercontent.com/de59e8e9b410aa0b9479b114040c06468ef33cfc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d76332e362b2d626c75652e737667) ![Status](images/status-work-in-progress.png) ![Contributions Welcome](https://camo.githubusercontent.com/72f84692f9f89555c176bb9e0eca9cf08d97fec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f636f6e747269627574696f6e732d77656c636f6d652d6f72616e67652e737667)
 
 ## **Overview**
-This repo contains libraries, techniques, projects and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so to document my learning experience and what I found conceptually helpful from various online resources. The order of courses also helped me build my foundational knowledge to more advanced to more niche applications. If the organization of content helps someone else in their Deep Learning journey than even better.
+This repo contains libraries, techniques, projects, nanodegrees and courses using various neural net and deep learning architectures. Some techniques are from open source courses. This repo is more so to document my learning experience and what I found conceptually helpful from various online resources. The order of courses also helped me build my foundational knowledge to more advanced to more niche applications. If the organization of content helps someone else in their Deep Learning journey than even better.
 
 # **Table Of Contents**
 
