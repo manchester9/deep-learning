@@ -49,7 +49,7 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
 
 3. [Tensorflow 2.0-Deep Learning and Artificial Intelligence: Udemy]()
 
-4. [Data Science: Deep Learning in Python: Udemy]()
+4. [Data Science: Deep Learning in Python: Udemy](https://www.udemy.com/course/data-science-deep-learning-in-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.US_ti.5336&utm_content=deal4584&utm_term=_._ag_83329490114_._ad_436603255195_._kw__._de_c_._dm__._pl__._ti_dsa-774930027489_._li_1023191_._pd__._&matchtype=b&gclid=EAIaIQobChMIjN2579To6gIVlQiICR1x0A46EAAYASAAEgI3__D_BwE)
 
 5. [Modern Deep Learning in Python: Udemy]()
 
