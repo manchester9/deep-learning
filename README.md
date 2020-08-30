@@ -19,7 +19,6 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
 6. [PyTorch]()
 7. [CNTK]()
 8. [DeepLearning4J]()
-9. [TBD]()
 
 ### **Techniques**
 1. [Perceptron]()
