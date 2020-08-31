@@ -33,9 +33,11 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
 9. [Deep Belief Networks]()
 10. [Stacked Autoencoders]()
 
+
 ### **Projects**
 1. [Mamogram-mass-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/mamogram-mass-predictor)
 2. [Political-party-predictor](https://github.com/manchester9/deep-learning/tree/master/projects/political-party-predictor)
+
 
 ### **Courses**
 1. [Deep Learning Specialization: Coursera](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization)
@@ -44,26 +46,15 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
     * [Course 3: Structuring Machine Learning Projects](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/structuring-machine-learning-projects)
     * [Course 4: Convolutional Neural Networks](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/convolutional-neural-networks)
     * [Course 5: Sequence Models](https://github.com/manchester9/deep-learning/tree/master/courses/deep-learning-specialization/sequence-models)
-
 2. [Deep Learning with Python: François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-
 3. [Tensorflow 2.0-Deep Learning and Artificial Intelligence: Udemy]()
-
 4. [Data Science: Deep Learning in Python: Udemy](https://www.udemy.com/course/data-science-deep-learning-in-python/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.US_ti.5336&utm_content=deal4584&utm_term=_._ag_83329490114_._ad_436603255195_._kw__._de_c_._dm__._pl__._ti_dsa-774930027489_._li_1023191_._pd__._&matchtype=b&gclid=EAIaIQobChMIjN2579To6gIVlQiICR1x0A46EAAYASAAEgI3__D_BwE)
-
 5. [Modern Deep Learning in Python: Udemy]()
-
 6. [Deep Learning-Convolutional Neural Networks in Python: Udemy]()
-
 7. [Deep Learning: Recurrent Neural Networks in Python: Udemy]()
-
 8. [Natural Language Processing with Deep Learning in Python: Udemy](https://github.com/manchester9/deep-learning/tree/master/courses/natural-language-processing-with-deep-learning)
-
 9. [Cutting Edge AI-Deep Reinforcement Learning in Python: Udemy]()
-
 10. [Deep Learning: GANs and Variational Autoencoders: Udemy]()
-
 11. [Recommender Systems and Deep Learning in Python: Udemy]()
-
 12. [Introduction to Deep Learning with PyTorch: Udacity]()
     
