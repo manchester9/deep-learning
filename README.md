@@ -13,10 +13,10 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
 ### **Libraries**
 1. [Tensorflow](https://github.com/manchester9/deep-learning/tree/master/libraries/Tensorflow)
 2. [Keras](https://github.com/manchester9/deep-learning/tree/master/libraries/Keras)
-3. [Caffe]()
-4. [Theano]()
-5. [Mxnet]()
-6. [PyTorch]()
+3. [PyTorch]() 
+4. [Theano]() 
+5. [Caffe]()
+6. [Mxnet]()
 7. [CNTK]()
 8. [DeepLearning4J]()
 
