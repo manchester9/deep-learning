@@ -58,4 +58,3 @@ This repo contains libraries, techniques, projects, nanodegrees, websites, and c
 10. [Deep Learning: GANs and Variational Autoencoders: Udemy]()
 11. [Recommender Systems and Deep Learning in Python: Udemy]()
 12. [Introduction to Deep Learning with PyTorch: Udacity]()
-13. [TBD]
